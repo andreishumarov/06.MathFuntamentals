@@ -1,0 +1,14 @@
+F:\11A-andrei\06 MathFuntamentals\decimalToBinary\decimalToBinary\bin\Debug\netcoreapp3.1\decimalToBinary.exe
+F:\11A-andrei\06 MathFuntamentals\decimalToBinary\decimalToBinary\bin\Debug\netcoreapp3.1\decimalToBinary.deps.json
+F:\11A-andrei\06 MathFuntamentals\decimalToBinary\decimalToBinary\bin\Debug\netcoreapp3.1\decimalToBinary.runtimeconfig.json
+F:\11A-andrei\06 MathFuntamentals\decimalToBinary\decimalToBinary\bin\Debug\netcoreapp3.1\decimalToBinary.runtimeconfig.dev.json
+F:\11A-andrei\06 MathFuntamentals\decimalToBinary\decimalToBinary\bin\Debug\netcoreapp3.1\decimalToBinary.dll
+F:\11A-andrei\06 MathFuntamentals\decimalToBinary\decimalToBinary\bin\Debug\netcoreapp3.1\decimalToBinary.pdb
+F:\11A-andrei\06 MathFuntamentals\decimalToBinary\decimalToBinary\obj\Debug\netcoreapp3.1\decimalToBinary.csproj.AssemblyReference.cache
+F:\11A-andrei\06 MathFuntamentals\decimalToBinary\decimalToBinary\obj\Debug\netcoreapp3.1\decimalToBinary.GeneratedMSBuildEditorConfig.editorconfig
+F:\11A-andrei\06 MathFuntamentals\decimalToBinary\decimalToBinary\obj\Debug\netcoreapp3.1\decimalToBinary.AssemblyInfoInputs.cache
+F:\11A-andrei\06 MathFuntamentals\decimalToBinary\decimalToBinary\obj\Debug\netcoreapp3.1\decimalToBinary.AssemblyInfo.cs
+F:\11A-andrei\06 MathFuntamentals\decimalToBinary\decimalToBinary\obj\Debug\netcoreapp3.1\decimalToBinary.csproj.CoreCompileInputs.cache
+F:\11A-andrei\06 MathFuntamentals\decimalToBinary\decimalToBinary\obj\Debug\netcoreapp3.1\decimalToBinary.dll
+F:\11A-andrei\06 MathFuntamentals\decimalToBinary\decimalToBinary\obj\Debug\netcoreapp3.1\decimalToBinary.pdb
+F:\11A-andrei\06 MathFuntamentals\decimalToBinary\decimalToBinary\obj\Debug\netcoreapp3.1\decimalToBinary.genruntimeconfig.cache
